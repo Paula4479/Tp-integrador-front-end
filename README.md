@@ -1,2 +1,2 @@
 # Tp-integrador-front-end
-https://github.com/Paula4479/Tp-integrador-front-end.git
+file:///C:/Users/piglesia/Documents/curso/sintaxis/images/foto%208.jpg
